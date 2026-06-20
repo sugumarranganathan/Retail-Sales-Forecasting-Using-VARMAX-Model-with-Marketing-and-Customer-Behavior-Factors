@@ -174,7 +174,5 @@ The VARMAX(2,1) model successfully forecasted retail sales using both internal s
 
 ## Prepared by
 
-**Sugumar Ranganathan (MBA)**
-
-Retail Sales Forecasting Using VARMAX Model Project
+**Sugumar Ranganathan, M.B.A.,**
 
